@@ -1,5 +1,10 @@
 Hi 👋 My name is De Bakker Luka
-===============================Junior Backend Developer------------------------* 🌍  I'm based in Waregem, Belgium.* 🤝  I'm open to collaborating on anything.* ⚡  Lover of reading, fiction, fantasy.
+===============================
+Junior Backend Developer
+------------------------
+* 🌍  I'm based in Waregem, Belgium.
+* 🤝  I'm open to collaborating on anything.
+* ⚡  Lover of reading, fiction, fantasy.
 
 <a href="https://www.twitter.com/D12Luka" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/D12Luka?logo=twitter&style=for-the-badge&color=a855f7&labelColor=000000"/></a>
