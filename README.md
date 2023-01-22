@@ -1,6 +1,6 @@
 Hi 👋 My name is De Bakker Luka
 ===============================
-Junior Backend Developer
+Medior Backend Developer
 ------------------------
 * 🌍  I'm based in Waregem, Belgium.
 * 🤝  I'm open to collaborating on anything.
